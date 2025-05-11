@@ -1,6 +1,6 @@
 # recruitment_system
 
-# Kindle电子书发送工具
+# 一个用Gmail邮箱或者QQ邮箱发送电子书到kindle的工具
 
 一个通过邮箱将EPUB格式电子书发送至Kindle设备的GUI应用程序，支持Gmail和QQ邮箱。
 
